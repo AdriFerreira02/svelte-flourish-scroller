@@ -1,6 +1,6 @@
 <article class="max-w-4xl mx-auto mt-40 font-serif px-4">
 	<h1 class="text-5xl text-left lg:text-6xl lg:text-center">
-		"A queda do K no K-Pop"
+		A queda do K no K-Pop
 	</h1>
 
 	<div class="max-w-2xl mx-auto text-xl">
